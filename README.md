@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Tharunya
 
-<!--
-**MannepalliTharunya/MannepalliTharunya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AIML Student | Aspiring Data Analyst & Full Stack Developer  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- React.js
+- Power BI
+- Machine Learning
+- Data Science
+- Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- Currently doing Internship in the Technology Domain
+
+## Projects
+- Lung Cancer Detection
+- Food Recommendation System
+- Community Service Project
+- Word Cloud Game
+
+## Currently Learning
+- Backend Development
+- Advanced Data Analytics
+- Full Stack Development
